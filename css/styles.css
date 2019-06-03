@@ -1,0 +1,92 @@
+
+ #title
+{
+  background-color: #ff4c68;
+}
+h1
+{
+  font-family: 'Montserrat-black', sans-serif;
+  line-height: 1.5;
+  font-size: 3rem;
+  color: #fffafa;
+}
+.container-fluid
+{
+  padding-left: 15%;
+  padding-right: 15%;
+}
+.nig
+{
+  transform: rotate(15deg);
+}
+.download-button
+{
+  margin: 5% 3% 5% 0;
+}
+.feature-box
+{
+  text-align: center;
+}
+#features{
+  padding: 7% 15%;
+
+
+}
+.doggie
+{
+  border-radius: 100%;
+}
+#testimonials
+{
+  text-align: center;
+  padding: 7% 15%;
+  background-color: #ff4c68;
+}
+
+
+.niggafooter{
+  background-color: #212121;
+
+}
+body{
+  margin: 0;
+}
+.icon
+{
+  color: #ff4c68;
+}
+.icon:hover
+{
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+h3
+{
+  font-family: "Montserrat-bold" sans-serif;
+}
+p{
+  color: #8f8f8f;
+}
+#cta
+{
+  background-color: #ff4c68;
+  text-align: center;
+}
+#pricing
+{
+  text-align: center;
+}
+h5
+{
+  color: #212121;
+  font-family: "ubuntu-bold" sans-serif;
+}
+.tes
+{
+  color: black;
+  font-family: "ubuntu-bold" sans-serif;
+}
+.masa
+{
+  border-radius: 80%; 
+}
